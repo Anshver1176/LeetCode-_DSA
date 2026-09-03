@@ -47,6 +47,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | [0102-binary-tree-level-order-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -54,6 +55,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | [0101-symmetric-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -62,9 +64,15 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | [0102-binary-tree-level-order-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
