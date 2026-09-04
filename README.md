@@ -43,6 +43,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0144-binary-tree-preorder-traversal) |
@@ -53,6 +54,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -62,6 +64,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0144-binary-tree-preorder-traversal) |
@@ -71,6 +74,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
