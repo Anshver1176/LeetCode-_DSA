@@ -49,6 +49,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | [0144-binary-tree-preorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
 |  |
@@ -59,6 +60,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | [0144-binary-tree-preorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
@@ -70,6 +72,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | [0144-binary-tree-preorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Breadth-First Search
 |  |
@@ -86,4 +89,12 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0543-diameter-of-binary-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
