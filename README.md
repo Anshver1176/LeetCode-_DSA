@@ -14,6 +14,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | [0001-two-sum](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0455-assign-cookies](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0455-assign-cookies) |
 ## Hash Table
 |  |
@@ -54,6 +55,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0144-binary-tree-preorder-traversal) |
@@ -92,6 +94,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0144-binary-tree-preorder-traversal) |
@@ -116,6 +119,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## DP on Trees
@@ -143,6 +147,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Linked List
 |  |
 | ------- |
