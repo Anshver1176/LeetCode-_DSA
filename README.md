@@ -46,6 +46,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0173-binary-search-tree-iterator) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Tree
 |  |
@@ -65,6 +66,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -118,6 +120,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -148,6 +151,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | [0098-validate-binary-search-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -190,6 +194,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
 |  |
@@ -203,4 +208,8 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
