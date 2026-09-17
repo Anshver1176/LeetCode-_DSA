@@ -16,6 +16,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0347-top-k-frequent-elements](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0455-assign-cookies) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Hash Table
@@ -24,6 +25,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | [0001-two-sum](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0347-top-k-frequent-elements](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,6 +39,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0088-merge-sorted-array) |
+| [0347-top-k-frequent-elements](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0455-assign-cookies) |
 ## Quicksort
 |  |
@@ -189,6 +192,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0347-top-k-frequent-elements](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -202,6 +206,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -215,4 +220,16 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0173-binary-search-tree-iterator) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
