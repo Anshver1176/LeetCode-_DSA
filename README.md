@@ -12,6 +12,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -26,6 +27,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
@@ -34,6 +36,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0455-assign-cookies) |
 ## Quicksort
 |  |
