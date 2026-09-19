@@ -106,6 +106,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | [0572-subtree-of-another-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0684-redundant-connection) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -151,6 +152,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | [0207-course-schedule](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0207-course-schedule) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0684-redundant-connection) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Search Tree
@@ -238,6 +240,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0207-course-schedule) |
+| [0684-redundant-connection](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0684-redundant-connection) |
 ## Topological Sort
 |  |
 | ------- |
@@ -246,4 +249,8 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0207-course-schedule) |
+## Union-Find
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
