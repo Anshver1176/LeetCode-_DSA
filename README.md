@@ -100,6 +100,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | [0144-binary-tree-preorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -152,6 +153,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0207-course-schedule](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0210-course-schedule-ii) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0684-redundant-connection) |
@@ -243,11 +245,13 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0684-redundant-connection) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0210-course-schedule-ii) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
