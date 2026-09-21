@@ -111,6 +111,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | [0684-redundant-connection](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
@@ -159,6 +160,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | [0684-redundant-connection](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -217,6 +219,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Data Stream
 |  |
 | ------- |
@@ -247,6 +250,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | [0207-course-schedule](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0684-redundant-connection) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Topological Sort
 |  |
 | ------- |
@@ -264,4 +268,12 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0733-flood-fill) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
