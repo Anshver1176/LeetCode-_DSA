@@ -105,6 +105,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0662-maximum-width-of-binary-tree) |
@@ -155,6 +156,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0207-course-schedule](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0684-redundant-connection) |
@@ -249,6 +251,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | ------- |
 | [0207-course-schedule](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0684-redundant-connection) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Topological Sort
@@ -263,6 +266,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0684-redundant-connection) |
 ## Matrix
 |  |
