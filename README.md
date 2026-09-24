@@ -19,6 +19,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0347-top-k-frequent-elements](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0494-target-sum) |
 | [0733-flood-fill](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0733-flood-fill) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Hash Table
@@ -284,9 +285,22 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0494-target-sum](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0494-target-sum) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Shortest Path
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0494-target-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
