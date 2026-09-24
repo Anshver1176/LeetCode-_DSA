@@ -16,6 +16,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0347-top-k-frequent-elements](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0455-assign-cookies) |
 | [0733-flood-fill](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0733-flood-fill) |
@@ -282,6 +283,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Shortest Path
 |  |
