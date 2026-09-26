@@ -17,6 +17,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0300-longest-increasing-subsequence](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0455-assign-cookies) |
@@ -181,6 +182,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | [0173-binary-search-tree-iterator](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0300-longest-increasing-subsequence](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -288,6 +290,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0300-longest-increasing-subsequence](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0494-target-sum) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -317,4 +320,8 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/1143-longest-common-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
