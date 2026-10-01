@@ -227,6 +227,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Design
