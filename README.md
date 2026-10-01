@@ -63,6 +63,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0100-same-tree) |
@@ -125,6 +126,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0100-same-tree) |
@@ -176,6 +178,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -291,6 +294,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0322-coin-change) |
@@ -326,4 +330,8 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0300-longest-increasing-subsequence) |
+## Math
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
