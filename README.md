@@ -41,6 +41,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | [0088-merge-sorted-array](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0455-assign-cookies) |
+| [0844-backspace-string-compare](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0844-backspace-string-compare) |
 ## Greedy
 |  |
 | ------- |
@@ -63,6 +64,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | [0144-binary-tree-preorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0173-binary-search-tree-iterator) |
+| [0844-backspace-string-compare](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0844-backspace-string-compare) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Tree
 |  |
@@ -206,6 +208,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | ------- |
 | [0072-edit-distance](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0072-edit-distance) |
 | [0572-subtree-of-another-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0572-subtree-of-another-tree) |
+| [0844-backspace-string-compare](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0844-backspace-string-compare) |
 | [1143-longest-common-subsequence](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/1143-longest-common-subsequence) |
 ## Hash Function
 |  |
@@ -350,4 +353,8 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0713-subarray-product-less-than-k) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
