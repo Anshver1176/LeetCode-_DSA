@@ -28,6 +28,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | [0713-subarray-product-less-than-k](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0733-flood-fill) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2401-longest-nice-subarray](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/2401-longest-nice-subarray) |
 | [3477-fruits-into-baskets-ii](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/3477-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
@@ -360,6 +361,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0076-minimum-window-substring) |
 | [0713-subarray-product-less-than-k](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0713-subarray-product-less-than-k) |
+| [2401-longest-nice-subarray](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/2401-longest-nice-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -377,4 +379,8 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/3477-fruits-into-baskets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2401-longest-nice-subarray](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/2401-longest-nice-subarray) |
 <!---LeetCode Topics End-->
