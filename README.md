@@ -40,6 +40,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,6 +48,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | [0088-merge-sorted-array](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0844-backspace-string-compare) |
 ## Greedy
@@ -221,6 +223,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | [0072-edit-distance](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0567-permutation-in-string) |
 | [0572-subtree-of-another-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0572-subtree-of-another-tree) |
 | [0844-backspace-string-compare](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0844-backspace-string-compare) |
 | [1143-longest-common-subsequence](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/1143-longest-common-subsequence) |
@@ -365,6 +368,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [2401-longest-nice-subarray](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/2401-longest-nice-subarray) |
