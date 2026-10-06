@@ -129,6 +129,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0572-subtree-of-another-tree) |
@@ -255,6 +256,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
@@ -396,4 +398,8 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 |  |
 | ------- |
 | [2401-longest-nice-subarray](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/2401-longest-nice-subarray) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
