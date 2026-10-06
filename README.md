@@ -51,6 +51,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | [0567-permutation-in-string](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -254,6 +255,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0876-middle-of-the-linked-list](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
