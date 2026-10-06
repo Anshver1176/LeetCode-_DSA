@@ -1,54 +1,52 @@
 class Solution {
+
+    public boolean sahi(int have[], int needed[]) {
+        for (int i = 0; i < 256; i++) {
+            if (have[i] < needed[i]) {
+                return false;
+            }
+        }
+        return true;
+    }
+
     public String minWindow(String s, String t) {
 
-        int low = 0;
-        int high = 0;
+        int n = s.length();
 
-        int minLen = Integer.MAX_VALUE;
+        int low = 0;
+        int res = Integer.MAX_VALUE;
         int start = 0;
 
-        int count = t.length();
+        int have[] = new int[256];
+        int needed[] = new int[256];
 
-        int[] freq = new int[128];
-
+        // Store required characters
         for (int i = 0; i < t.length(); i++) {
-            freq[t.charAt(i)]++;
+            needed[t.charAt(i)]++;
         }
 
-        while (high < s.length()) {
+        for (int high = 0; high < n; high++) {
 
-            char ch = s.charAt(high);
+            have[s.charAt(high)]++;
 
-            if (freq[ch] > 0) {
-                count--;
-            }
+            while (sahi(have, needed)) {
 
-            freq[ch]--;
-            high++;
+                int len = high - low + 1;
 
-            while (count == 0) {
-
-                if (high - low < minLen) {
-                    minLen = high - low;
+                if (len < res) {
+                    res = len;
                     start = low;
                 }
 
-                char leftChar = s.charAt(low);
-
-                freq[leftChar]++;
-
-                if (freq[leftChar] > 0) {
-                    count++;
-                }
-
+                have[s.charAt(low)]--;
                 low++;
             }
         }
 
-        if (minLen == Integer.MAX_VALUE) {
+        if (res == Integer.MAX_VALUE) {
             return "";
         }
 
-        return s.substring(start, start + minLen);
+        return s.substring(start, start + res);
     }
 }
