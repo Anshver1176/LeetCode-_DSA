@@ -13,6 +13,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | ------- |
 | [0001-two-sum](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -249,6 +250,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -330,6 +332,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
