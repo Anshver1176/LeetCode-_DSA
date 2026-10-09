@@ -26,6 +26,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | [0347-top-k-frequent-elements](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0494-target-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0713-subarray-product-less-than-k](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0733-flood-fill) |
@@ -48,6 +49,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | [0347-top-k-frequent-elements](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
@@ -399,6 +401,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Simulation
