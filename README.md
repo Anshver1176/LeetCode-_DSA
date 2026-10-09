@@ -32,6 +32,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | [1004-max-consecutive-ones-iii](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2401-longest-nice-subarray](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/2401-longest-nice-subarray) |
 | [3477-fruits-into-baskets-ii](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/3477-fruits-into-baskets-ii) |
 ## Hash Table
@@ -345,6 +346,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | [0787-cheapest-flights-within-k-stops](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/1143-longest-common-subsequence) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Shortest Path
 |  |
 | ------- |
