@@ -46,6 +46,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | [0138-copy-list-with-random-pointer](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0347-top-k-frequent-elements](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
@@ -232,6 +233,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | [0072-edit-distance](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0567-permutation-in-string) |
 | [0572-subtree-of-another-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0572-subtree-of-another-tree) |
 | [0844-backspace-string-compare](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0844-backspace-string-compare) |
@@ -386,6 +388,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/1004-max-consecutive-ones-iii) |
