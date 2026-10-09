@@ -29,6 +29,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | [0560-subarray-sum-equals-k](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0713-subarray-product-less-than-k](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0733-flood-fill) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -403,6 +404,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Simulation
 |  |
