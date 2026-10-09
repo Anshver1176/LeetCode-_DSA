@@ -29,6 +29,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0713-subarray-product-less-than-k](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0733-flood-fill) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -260,6 +261,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0347-top-k-frequent-elements) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Linked List
 |  |
 | ------- |
@@ -346,6 +348,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | [0322-coin-change](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0494-target-sum) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1143-longest-common-subsequence](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/1143-longest-common-subsequence) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -419,4 +422,12 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
