@@ -388,6 +388,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0050-powx-n) |
 | [0096-unique-binary-search-trees](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0096-unique-binary-search-trees) |
 ## Sliding Window
 |  |
@@ -437,4 +438,8 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0918-maximum-sum-circular-subarray) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
