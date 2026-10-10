@@ -33,6 +33,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | [0724-find-pivot-index](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0733-flood-fill) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -53,6 +54,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | [0438-find-all-anagrams-in-a-string](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0567-permutation-in-string) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -407,6 +409,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | [0560-subarray-sum-equals-k](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Simulation
 |  |
