@@ -19,6 +19,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0300-longest-increasing-subsequence) |
@@ -422,6 +423,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0136-single-number) |
 | [2401-longest-nice-subarray](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/2401-longest-nice-subarray) |
 ## Doubly-Linked List
 |  |
