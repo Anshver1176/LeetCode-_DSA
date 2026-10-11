@@ -12,6 +12,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0088-merge-sorted-array) |
@@ -213,6 +214,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0096-unique-binary-search-trees](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0099-recover-binary-search-tree) |
@@ -262,6 +264,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
