@@ -271,6 +271,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -390,6 +391,7 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0050-powx-n) |
 | [0096-unique-binary-search-trees](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0096-unique-binary-search-trees) |
 ## Sliding Window
@@ -444,5 +446,6 @@ The main goal of this repository is to maintain consistency, improve problem-sol
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Anshver1176/LeetCode-_DSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
